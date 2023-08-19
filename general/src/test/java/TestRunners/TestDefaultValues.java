@@ -10,6 +10,7 @@ public class TestDefaultValues {
   public static final String DEFAULT_LINK = "http://www.facebook.com";
   public static final String DEFAULT_USER = "jasecuframework@gmail.com";
   public static final String DEFAULT_PASSWORD = "CORRECT_PASSWORD";
+  // TODO: 8/19/2023  
   public static final String DEFAULT_APPLITOOLSAPIKEY = "YOUR_APLITOOLS_API_KEY";
 
   private static String operatingSystem;
